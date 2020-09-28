@@ -1,4 +1,4 @@
-# parn
+# Vue-vuetify-pwa-vuex-vue-router-starter
 
 ## Project setup
 ```
